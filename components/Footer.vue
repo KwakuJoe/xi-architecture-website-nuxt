@@ -1,7 +1,7 @@
 <template>
     <div class=" p-10 w-full bg-black dark:bg-white text-white dark:text-black mt-10">
-    <div class="flex flex-row justify-between items-end">
-        <div class="flex flex-col gapy-0 items-center">
+    <div class="flex lg:flex-row flex-col gap-y-2 justify-between items-start">
+        <div class="flex flex-col items-center">
           <!-- logo -->
           <h5 class="font-bold text-5xl">XI</h5>
           <p class="xs">architects</p>
